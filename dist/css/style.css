@@ -114,6 +114,8 @@ header svg {
 .tentang-box .box:nth-child(1) img {
     width: 300px;
     padding: 10px 10px 0 10px;
+    background-color: #F7A5A5;
+    border: 1px solid white;
     border-radius: 10px;
     margin-inline: auto; /* aktif krn ada width */
 }
@@ -316,4 +318,5 @@ footer .social a {
 }
 
 /* Scroll To Top */
+
 
